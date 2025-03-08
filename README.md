@@ -1,1 +1,1 @@
-# supervisor-in-container
+# Supervisordをコンテナのプロセスマネージャとして使う例
